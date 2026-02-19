@@ -2,11 +2,11 @@
 name = "curve25519-dalek-derive"
 version = "0.1.1"
 edition = "2021"
+license = "LicenseRef-STXR-Internal-Only-1.0"
 
 repository = "https://github.com/dalek-cryptography/curve25519-dalek"
 homepage = "https://github.com/dalek-cryptography/curve25519-dalek"
 documentation = "https://docs.rs/curve25519-dalek-derive"
-license = "MIT OR Apache-2.0"
 readme = "README.md"
 description = "curve25519-dalek Derives"
 
