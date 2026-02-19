@@ -8,7 +8,6 @@ authors = [
     "Michael Rosenberg <michael@mrosenberg.pub>"
 ]
 readme = "README.md"
-license = "BSD-3-Clause"
 repository = "https://github.com/dalek-cryptography/curve25519-dalek/tree/main/ed25519-dalek"
 homepage = "https://github.com/dalek-cryptography/curve25519-dalek"
 documentation = "https://docs.rs/ed25519-dalek"
@@ -17,6 +16,7 @@ categories = ["cryptography", "no-std"]
 description = "Fast and efficient ed25519 EdDSA key generations, signing, and verification in pure Rust."
 exclude = [ ".gitignore", "TESTVECTORS", "VALIDATIONVECTORS", "res/*" ]
 rust-version = "1.60"
+license = "LicenseRef-STXR-Internal-Only-1.0"
 
 [package.metadata.docs.rs]
 rustdoc-args = [
