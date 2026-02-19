@@ -13,7 +13,6 @@ authors = [
     "Henry de Valence <hdevalence@hdevalence.ca>",
 ]
 readme = "README.md"
-license = "BSD-3-Clause"
 repository = "https://github.com/dalek-cryptography/curve25519-dalek/tree/main/x25519-dalek"
 homepage = "https://github.com/dalek-cryptography/curve25519-dalek"
 documentation = "https://docs.rs/x25519-dalek"
@@ -26,6 +25,7 @@ exclude = [
     "CONTRIBUTING.md",
 ]
 rust-version = "1.60"
+license = "LicenseRef-STXR-Internal-Only-1.0"
 
 [badges]
 travis-ci = { repository = "dalek-cryptography/x25519-dalek", branch = "master"}
