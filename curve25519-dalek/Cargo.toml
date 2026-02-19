@@ -10,7 +10,6 @@ rust-version = "1.60.0"
 authors = ["Isis Lovecruft <isis@patternsinthevoid.net>",
            "Henry de Valence <hdevalence@hdevalence.ca>"]
 readme = "README.md"
-license = "BSD-3-Clause"
 repository = "https://github.com/dalek-cryptography/curve25519-dalek/tree/main/curve25519-dalek"
 homepage = "https://github.com/dalek-cryptography/curve25519-dalek"
 documentation = "https://docs.rs/curve25519-dalek"
@@ -21,6 +20,7 @@ exclude = [
     "**/.gitignore",
     ".gitignore",
 ]
+license = "LicenseRef-STXR-Internal-Only-1.0"
 
 [package.metadata.docs.rs]
 rustdoc-args = [
