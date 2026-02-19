@@ -186,8 +186,8 @@ fn entry_point() {
 
 Licensed under either of
 
-  * Apache License, Version 2.0, [LICENSE-APACHE](LICENSE-APACHE)
-  * MIT license ([LICENSE-MIT](LICENSE-MIT))
+  * Apache License, Version 2.0, [LICENSE-LicenseRef-STXR-Internal-Only-1.0 (see LICENSE)](LICENSE-LicenseRef-STXR-Internal-Only-1.0 (see LICENSE))
+  * MIT license ([LICENSE-LicenseRef-STXR-Internal-Only-1.0 (see LICENSE)](LICENSE-LicenseRef-STXR-Internal-Only-1.0 (see LICENSE)))
 
 at your option.
 
